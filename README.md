@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Elisama Arturo Calva Moreno
+## Daniel Arroyo Méndez
 ## 10A
 ### Desarrollo Móvil Integral
 
@@ -27,8 +27,8 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 5 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Esta aplicación con el nombre de “Implementación de imágenes a aplicación Stateful” fue creada con Flutter con la finalidad de poder mostrar un ejemplo senisllo de una aplicación que utilice un botón personalizado para poder cambiar de imagenes y un carrusel para también poder cambiar de imágenes. El botón cambia su texto cada vez que el usuario presiona, y el carrusel de imágenes permite al usuario se desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para poder mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.  |
+| Nombre  |  Cambios en la aplicación Color, tipo de fuente y cambio de icono |
+| Descripción  | Es una apliacción centrada en cine. Ofrece a los usuarios una experiencia inmersiva para explorar películas. La barra de navegación en la parte inferior permite acceder rápidamente a las secciones populares y próximas, brindando información relevante y atractiva. Además, cuenta con un práctico cajón lateral que facilita la navegación y proporciona opciones esenciales. Con un diseño oscuro elegante y una interfaz fácil de usar, tu aplicación se enfoca en proporcionar a los amantes del entretenimiento una forma intuitiva de descubrir y seguir sus contenidos favoritos.  |
 |  Fecha de Carga | 21/09/23  |
 
 &nbsp;
