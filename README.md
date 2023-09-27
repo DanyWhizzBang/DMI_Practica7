@@ -16,7 +16,7 @@
 ## Capturas de Pantalla
 <p align="center">
   <img src="https://github.com/DanyWhizzBang/DMI_Practica7/blob/main/Screenshot_2023-09-27-01-45-58-785_com.example.movieapp_200070.jpg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/c.jpeg" width="200" alt="Captura de Pantalla 3">
+  <img src="https://github.com/DanyWhizzBang/DMI_Practica7/blob/main/Screenshot_2023-09-27-01-46-01-804_com.example.movieapp_200070.jpg" width="200" alt="Captura de Pantalla 3">
 </p>
 
 
